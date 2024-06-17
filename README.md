@@ -18,8 +18,10 @@
 - Hotel資料夾中為本專案之後端專案(使用SpringBoot之java專案)
 
 - vue資料夾底下有兩個專案，分別為前台及後台(使用vue.js)
-- - hotel_front
-- - hotel_backend
+- hotel_front
+- hotel_backend
+
+- 需要手動建置一個名為HOTEL的資料庫，並在hotel資料表中至少新增一筆資料，才能正常使用本系統。(建議：單純看程式碼即可)
 
 ## 個人負責部分
 陳予蘋所負責之套件如下(後綴有CYP之檔案)
