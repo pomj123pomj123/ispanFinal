@@ -1,0 +1,30 @@
+{ name: "room1", path: "/superiorintro1/1", component: Superior1 },	// 豪華客房單人房
+{ name: "room2", path: "/superiorintro2/2", component: Superior2 },
+{ name: "room3", path: "/superiorintro4/3", component: Superior4 },
+{ name: "room4", path: "/deluxe1/4", component: Deluxe1 },			// 尊榮客房單人房
+{ name: "room5", path: "/deluxe2/5", component: Deluxe2 },
+{ name: "room6", path: "/deluxe4/6", component: Deluxe4 },
+{ name: "room7", path: "/deluxeview1/7", component: DeluxeView1 },	//景觀尊榮客房單人房
+{ name: "room8", path: "/deluxeview2/8", component: DeluxeView2 },
+{ name: "room9", path: "/deluxeview4/9", component: DeluxeView4 },
+{ name: "room10", path: "/granddeluxefamily4/10", component: GrandDeluxeFamily4 },	  //特選尊榮家庭客房四人房	
+{ name: "room11", path: "/premier1/11", component: Premier1 },		//超豪華客房單人房
+{ name: "room12", path: "/premier2/12", component: Premier2 },
+{ name: "room14", path: "/premier4/13", component: Premier4 },
+{ name: "room15", path: "/horizonsuperior1/14", component: HorizonSuperior1 },	//豪華閣豪華客房單人房
+{ name: "room16", path: "/horizonsuperior2/15", component: HorizonSuperior2 },
+{ name: "room17", path: "/horizonsuperior4/16", component: HorizonSuperior4 },
+{ name: "room18", path: "/horizondeluxe1/17", component: HorizonDeluxe1 },		//豪華閣尊榮客房單人房
+{ name: "room19", path: "/horizondeluxe2/18", component: HorizonDeluxe2 },
+{ name: "room20", path: "/horizondeluxe4/19", component: HorizonDeluxe4 },
+{ name: "room21", path: "/premierView1/20", component: PremierView1 },			//景觀超豪華客房單人房
+{ name: "room22", path: "/premierView2/21", component: PremierView2 },
+{ name: "room23", path: "/premierView4/22", component: PremierView4 },
+{ name: "room24", path: "/specialtysuite1/23", component: SpecialtySuite1 },		//特級套房單人房
+{ name: "room25", path: "/specialtysuite2/24", component: SpecialtySuite2 },
+{ name: "room25", path: "/specialtysuite4/25", component: SpecialtySuite4 },
+{ name: "room26", path: "/plazasuite2/26", component: PlazaSuite2 },			//雅仕套房兩人房
+
+
+name: "room"+id
+{ name: "room26", path: "/plazasuite2/26", component: PlazaSuite2 },	
